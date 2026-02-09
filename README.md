@@ -28,7 +28,7 @@ The dashboard is built using Sales, Materials, Branches, and Masters tables conn
 - Promotion analysis
 
 ## Dashboard Preview
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/dasboard_overview.png)
 
 ## Tools Used
 - Power BI Desktop
@@ -63,7 +63,7 @@ Dashboard Satışlar, Materiallar, Filiallar və Ustalar cədvəlləri əsasınd
 - Endirimlərin təsiri
 
 ## Dashboard Görünüşü
-![Dashboard](images/dashboard_overview.png)
+![Dashboard](images/dasboard_overview.png)
 
 ## İstifadə olunan Alətlər
 - Power BI Desktop
